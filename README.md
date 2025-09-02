@@ -5,7 +5,7 @@ The objective of this project is to analyze Amazon sales data and create interac
 ## Dataset Used
 - <a href="https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Amazon%20Sale%20Report.xlsx"> Dataset</a>
 
-##Key Questions (KPIs)
+## Key Questions (KPIs)
 - Compare total orders, overall revenue, and units sold in a single view.
 - Identify the top product categories contributing to revenue.
 - Analyze orders by fulfillment method (Amazon vs Merchant).
