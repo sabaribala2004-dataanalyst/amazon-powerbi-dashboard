@@ -1,2 +1,3 @@
-# amazon-powerbi-dashboard
-I developed an interactive Power BI project using Amazon sales data. The work included data cleaning, preprocessing, and data modeling with DAX. I created multiple dashboards to track sales, revenue, and customer trends. The project delivered clear insights through dynamic visualizations for decision-making.
+# Amazon-Sales-Data-Analysis (Data Visualization & Reporting using Power BI)
+## Project Objective
+The objective of this project is to analyze Amazon sales data and create interactive dashboards. This helps in understanding customer behavior, sales performance, and revenue trends, thereby supporting data-driven decisions to improve growth and profitability.
