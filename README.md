@@ -25,3 +25,17 @@ The objective of this project is to analyze Amazon sales data and create interac
 - Designed the data model in Power BI with relationships, measures (DAX), and calculated fields.
 - Built multiple interactive dashboards to analyze sales by product category, states, cities, shipping type, and fulfillment method.
 - Added slicers, drill-through, and map visualizations for dynamic and detailed insights.
+
+  ## Dashboard Interaction
+
+  ![Page 1](
+
+  
+  
+  
+  ![Page 2](
+  
+  
+  
+  ![Page 3](
+
