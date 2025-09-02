@@ -17,3 +17,11 @@ The objective of this project is to analyze Amazon sales data and create interac
 - Compare delivered orders and revenue across product categories.
 - Analyze B2B vs B2C performance in terms of delivered sales and quantities.
 - Dashboard Interaction <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Sales%20Dashboard.pbix">View Main File</a>
+
+## Process
+
+- Collected Amazon sales data and verified for missing values, inconsistencies, and anomalies.
+- Cleaned and transformed the dataset to ensure accuracy in sales, orders, fulfillment, and shipment details.
+- Designed the data model in Power BI with relationships, measures (DAX), and calculated fields.
+- Built multiple interactive dashboards to analyze sales by product category, states, cities, shipping type, and fulfillment method.
+- Added slicers, drill-through, and map visualizations for dynamic and detailed insights.
