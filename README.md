@@ -26,16 +26,15 @@ The objective of this project is to analyze Amazon sales data and create interac
 - Built multiple interactive dashboards to analyze sales by product category, states, cities, shipping type, and fulfillment method.
 - Added slicers, drill-through, and map visualizations for dynamic and detailed insights.
 
-  ## Dashboard Interaction
+## Dashboard Interaction
 
-  ![Page 1](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%201.JPG).
+  ![Page 1](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%201.JPG)
 
   
   
   
-  ![Page 2](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%202.JPG).
-  
-  
-  
-  ![Page 3](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%203.JPG).
+  ![Page 2](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%202.JPG)
 
+  
+  
+  ![Page 3](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%203.JPG)
