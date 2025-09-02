@@ -16,4 +16,4 @@ The objective of this project is to analyze Amazon sales data and create interac
 - Visualize shipment coverage by states and cities on a map.
 - Compare delivered orders and revenue across product categories.
 - Analyze B2B vs B2C performance in terms of delivered sales and quantities.
-- Dashboard Interaction- <a href=<a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Sales%20Dashboard.pbix">View Main File</a>
+- Dashboard Interaction- <a href="https://github.com/sabaribala2004-dataanalyst/powerbi-dashboard/blob/main/Sales%20Dashboard.pbix">View Main File</a>
