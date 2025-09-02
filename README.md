@@ -28,14 +28,14 @@ The objective of this project is to analyze Amazon sales data and create interac
 
   ## Dashboard Interaction
 
-  ![Page 1](
+  ![Page 1](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%201.JPG).
 
   
   
   
-  ![Page 2](
+  ![Page 2](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%202.JPG).
   
   
   
-  ![Page 3](
+  ![Page 3](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%203.JPG).
 
