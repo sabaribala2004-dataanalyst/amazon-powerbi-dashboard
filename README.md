@@ -38,3 +38,15 @@ The objective of this project is to analyze Amazon sales data and create interac
   
   
   ![Page 3](https://github.com/sabaribala2004-dataanalyst/amazon-powerbi-dashboard/blob/main/Page%203.JPG)
+
+
+## Project Insight
+
+- T-shirts are the highest revenue-generating category, contributing over ₹39M.
+- Maharashtra, Karnataka, and Telangana are the top 3 states driving sales.
+- Bengaluru and Hyderabad are the leading cities in terms of revenue.
+- Standard shipping accounts for the majority of orders compared to expedited shipping.
+- Amazon fulfillment contributes more sales than merchant fulfillment.
+- B2C sales dominate with over ₹18M revenue, while B2B contributes a smaller share.
+- More than 90% of the total orders were successfully delivered.
+  
